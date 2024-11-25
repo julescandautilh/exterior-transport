@@ -17,8 +17,8 @@ Finally, the last functions are used to display matplotlib images.
 See the preprint for more details.
 You can also write me an email at jules.candautilh at gmail.com if you have any inquiry.
 
+<p align="center">
 <img src="./pictures/example_pacman.png" 
      alt="A set (in blue) and its minimiser for the exterior transport (in red)." 
-     style="width:30%;">
-
-
+     width="30%;"/>
+</p>
